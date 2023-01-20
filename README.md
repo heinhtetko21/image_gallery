@@ -1,6 +1,6 @@
-# myflutterproject
+# Image Gallery
 
-A new Flutter project.
+ This is image gallery flutter project.
 
 ## Getting Started
 
